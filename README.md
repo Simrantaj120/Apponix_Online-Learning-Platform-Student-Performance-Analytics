@@ -104,3 +104,33 @@ The interactive dashboard includes:
 ---
 
 ## 📁 Project Structure
+    Online-Learning-Analytics/
+    ├── data/
+    │ ├── students_500.csv
+    │ ├── engagement_500.csv
+    │ ├── assessments_500.csv
+    │
+    ├── database/
+    │ └── mysql_tables.sql
+    │
+    ├── notebook/
+    │ └── student_performance_analysis.ipynb
+    │
+    ├── powerbi/
+    │ └── dashboard_screenshot.png
+    │
+    ├── report/
+    │ └── project_report.pdf
+    │
+    └── README.md
+---
+
+## ✅ Conclusion
+    This project demonstrates how **data analytics, machine learning, database management, and business intelligence tools** can be applied to solve real-world educational challenges.  
+    The insights generated can help institutions improve **student retention, engagement, and learning outcomes**.
+---
+## Author
+#Simran
+
+
+
