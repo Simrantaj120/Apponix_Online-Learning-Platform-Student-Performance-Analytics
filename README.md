@@ -130,8 +130,10 @@ The interactive dashboard includes:
     The insights generated can help institutions improve **student retention, engagement, and learning outcomes**.
 <img width="1912" height="1016" alt="image" src="https://github.com/user-attachments/assets/3acc9c43-7a18-4071-b16c-bf9af35a2ef5" />
 ---
+
 ## Author
 #Simran
+
 
 
 
